@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option csharp_namespace = "ArticleService";
+
+service GrpcArticle  {
+	rpc GetArticles (GetAllArticleRequest) returns (ArticleResponse);
+}
+
+message GetAllArticleRequest {
+    string Id = 1;
+}
+
+message ArticleResponse{
+	repeated GrpcArticleModel article = 1;
+}
+
+message GrpcArticleModel {
+	string articleName = 1;
+    string articleAge = 2;
+}

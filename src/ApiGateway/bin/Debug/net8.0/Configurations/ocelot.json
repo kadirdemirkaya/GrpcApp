@@ -1,0 +1,26 @@
+{
+    "Routes": [
+        {
+            "UseServiceDiscovery": true,
+            "ServiceName": "gRPCClientApp",
+            "DownstreamPathTemplate": "/WeatherForecast/{everything}",
+            "DownstreamScheme": "http",
+            "UpstreamPathTemplate": "/WeatherForecast/{everything}",
+            "UpstreamHttpMethod": [
+                "Get",
+                "Post",
+                "Delete",
+                "Put"
+            ],
+            "UpstreamScheme": "http"
+        }
+    ],
+    "GlobalConfiguration": {
+        "BaseUrl": "http://localhost:5011",
+        "ServiceDiscoveryProvider": {
+            "Host": "localhost",
+            "Port": 8500,
+            "Type": "Consul"
+        }
+    }
+}
