@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y8oFEx+oLFVidi9JYtuDD47pSNOtDUhzq6TyXS0f7rbwU9xYHkaQvm+7vylknUAGY3+SBEI20WrFr9vcAlGBHw==",
+  "dgSpecHash": "iCc9Ep7ky+WuNvvO7cjffIgQZQzNNfBxW+TzRM0/8fpP8tlj+6t1Mk9ePLhlV3GAaX27AdlAe9wmFl6FB1yT/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Casper\\Desktop\\VsComunityProjects\\GRPCServerClient\\gRPCServerApp\\gRPCServerApp.csproj",
+  "projectFilePath": "C:\\Users\\Casper\\Desktop\\GitHub Projects\\GrpcClientServer\\src\\gRPCServerApp\\gRPCServerApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Casper\\.nuget\\packages\\google.protobuf\\3.23.1\\google.protobuf.3.23.1.nupkg.sha512",
     "C:\\Users\\Casper\\.nuget\\packages\\grpc.aspnetcore\\2.55.0\\grpc.aspnetcore.2.55.0.nupkg.sha512",

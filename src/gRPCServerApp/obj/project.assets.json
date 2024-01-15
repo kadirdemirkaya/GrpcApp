@@ -1197,11 +1197,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Casper\\Desktop\\VsComunityProjects\\GRPCServerClient\\gRPCServerApp\\gRPCServerApp.csproj",
+      "projectUniqueName": "C:\\Users\\Casper\\Desktop\\GitHub Projects\\GrpcClientServer\\src\\gRPCServerApp\\gRPCServerApp.csproj",
       "projectName": "gRPCServerApp",
-      "projectPath": "C:\\Users\\Casper\\Desktop\\VsComunityProjects\\GRPCServerClient\\gRPCServerApp\\gRPCServerApp.csproj",
+      "projectPath": "C:\\Users\\Casper\\Desktop\\GitHub Projects\\GrpcClientServer\\src\\gRPCServerApp\\gRPCServerApp.csproj",
       "packagesPath": "C:\\Users\\Casper\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Casper\\Desktop\\VsComunityProjects\\GRPCServerClient\\gRPCServerApp\\obj\\",
+      "outputPath": "C:\\Users\\Casper\\Desktop\\GitHub Projects\\GrpcClientServer\\src\\gRPCServerApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Casper\\AppData\\Roaming\\NuGet\\NuGet.Config",
