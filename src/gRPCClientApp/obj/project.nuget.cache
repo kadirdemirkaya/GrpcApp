@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OG+X8azmMWR6PET62sU8PV6d16CTMFDYbq27POifIULxyu1cjNTqCSTdDksiUbywJRX5wZEHj5bIDuRyt1sDXA==",
+  "dgSpecHash": "5PQrcpyS0Lna2AaIGel7+JDXZsuJ/nvV5+DCNv84aT/55YMP7+MKXBp3nG+uVq0nGt4qfUfxNirv7Q3ZglIk4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Casper\\Desktop\\VsComunityProjects\\GRPCServerClient\\gRPCClientApp\\gRPCClientApp.csproj",
+  "projectFilePath": "C:\\Users\\Casper\\Desktop\\GitHub Projects\\GrpcClientServer\\src\\gRPCClientApp\\gRPCClientApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Casper\\.nuget\\packages\\consul\\1.6.10.9\\consul.1.6.10.9.nupkg.sha512",
     "C:\\Users\\Casper\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",

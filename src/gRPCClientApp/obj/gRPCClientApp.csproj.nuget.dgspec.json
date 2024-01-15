@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Casper\\Desktop\\VsComunityProjects\\GRPCServerClient\\gRPCClientApp\\gRPCClientApp.csproj": {}
+    "C:\\Users\\Casper\\Desktop\\GitHub Projects\\GrpcClientServer\\src\\gRPCClientApp\\gRPCClientApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Casper\\Desktop\\VsComunityProjects\\GRPCServerClient\\gRPCClientApp\\gRPCClientApp.csproj": {
+    "C:\\Users\\Casper\\Desktop\\GitHub Projects\\GrpcClientServer\\src\\gRPCClientApp\\gRPCClientApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Casper\\Desktop\\VsComunityProjects\\GRPCServerClient\\gRPCClientApp\\gRPCClientApp.csproj",
+        "projectUniqueName": "C:\\Users\\Casper\\Desktop\\GitHub Projects\\GrpcClientServer\\src\\gRPCClientApp\\gRPCClientApp.csproj",
         "projectName": "gRPCClientApp",
-        "projectPath": "C:\\Users\\Casper\\Desktop\\VsComunityProjects\\GRPCServerClient\\gRPCClientApp\\gRPCClientApp.csproj",
+        "projectPath": "C:\\Users\\Casper\\Desktop\\GitHub Projects\\GrpcClientServer\\src\\gRPCClientApp\\gRPCClientApp.csproj",
         "packagesPath": "C:\\Users\\Casper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Casper\\Desktop\\VsComunityProjects\\GRPCServerClient\\gRPCClientApp\\obj\\",
+        "outputPath": "C:\\Users\\Casper\\Desktop\\GitHub Projects\\GrpcClientServer\\src\\gRPCClientApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Casper\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,7 @@
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Casper\\Desktop\\GitHub Projects\\BasicMicroserviceApp\\Nugets": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
