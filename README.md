@@ -1,11 +1,11 @@
 # GrpcApp
 
-Bu projede Client ve Server olmak üzere iki proje arasında http2 protokolü ile hem projede hem de dağıtımda ki iletişiminden bahsetmektedir.Aynı sırada bir yönlendirici ile istekleri yönlendirmektedir.
+In this project, it talks about the communication between two projects, Client and Server, with the http2 protocol, both in the project and in the distribution. At the same time, it directs the requests with a router.
 
-## Gerekli Teknoloji veya Yazılımlar
+## Required Technology or Software
 
 - .Net Core
 - Ocelot
-- Docker
+  – Docker
 - Swagger or Postman
 - k8s
