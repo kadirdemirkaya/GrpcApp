@@ -6,6 +6,6 @@ In this project, it talks about the communication between two projects, Client a
 
 - .Net Core
 - Ocelot
-  – Docker
+– Docker
 - Swagger or Postman
 - k8s
